@@ -1,0 +1,47 @@
+.text{
+  transition: 0.5s;
+}
+.btn{
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  border: solid 1px;
+  border-radius: 5px;
+  margin: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.blue:hover{
+  background-color: blue;
+  color: white;
+}
+.red:hover{
+  background-color: red;
+  color: white;
+}
+.green:hover{
+  background-color: green;
+  color: white;
+}
+.haha:hover{
+  background-color: gray;
+  color: white;
+}
+.back:hover{
+  background-color: black;
+  color: white;
+}
+.send{
+  display: inline-block;
+  margin: 5px;
+  cursor: pointer;
+  width: 60px;
+  height: 25px;
+  border-radius: 4px;
+  text-align: center;
+}
+.send:hover{
+  background-color: gray;
+  color: white
+}
